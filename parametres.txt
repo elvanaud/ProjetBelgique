@@ -1,3 +1,4 @@
 [DEFAULT]
-growthPop= 0 ; augmentation de population en pourcentage
-investissementNucleaire = -0.15 ; taux de croissance de la part d'énergie nucléaire dans le total
+;Note that all keys should start with an uppercase to make the python code more readable
+PopGrowth = 0.02 ; augmentation de population en pourcentage
+InvestissementNucleaire = -0.15 ; taux de croissance de la part d'énergie nucléaire dans le total

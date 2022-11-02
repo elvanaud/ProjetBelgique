@@ -1,5 +1,6 @@
 [2021]
-belgiumSurface = 30 688 ; en km2
-pop = 11,59 ;en millions
-pib = 599,9 ;en milliards en 2021
-oilPropInTES = 0.36 ;part de pétrole dans la TES(total energy supply)
+;Note that all keys should start with an uppercase to make the python code more readable
+BelgiumSurface = 30688 ;en km2
+Pop = 11,59 ;en millions
+PIB= 599,9 ;en milliards en 2021
+OilPropInTES = 0.36 ;part de pétrole dans la TES(total energy supply)
