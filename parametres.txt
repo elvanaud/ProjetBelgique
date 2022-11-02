@@ -1,0 +1,3 @@
+[DEFAULT]
+growthPop= 0 ; augmentation de population en pourcentage
+investissementNucleaire = -0.15 ; taux de croissance de la part d'énergie nucléaire dans le total

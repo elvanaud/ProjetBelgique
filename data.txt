@@ -1,0 +1,5 @@
+[2021]
+belgiumSurface = 30 688 ; en km2
+pop = 11,59 ;en millions
+pib = 599,9 ;en milliards en 2021
+oilPropInTES = 0.36 ;part de pétrole dans la TES(total energy supply)
